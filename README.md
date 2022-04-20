@@ -3,13 +3,7 @@
 ## Project
 
 ### Computer Graphics (2020/10 - Present)
-- CUDA implementation of classical renderers
-  - Rasterizer
-  - Ray-tracer
-  - Naive shading (facing-ratio, lambertian)
-  - Reflection and refraction
-  - Global illumination
-  - Shadow maps
+- CUDA implementation of classical renderers (Rasterizer, Ray-tracer, Global illumination, Shadow maps etc.)
 - Neural rendering survey
 - Novel view synthesis and fast training
 - Neural 3D Reconstruction (Photogrammetry)
