@@ -78,7 +78,7 @@
 
 ## Skills
 - Languages: Python, CUDA, C++, Java
-- Linux, AWS, Andoid
+- Platforms: Linux, AWS, Andoid, Windows
 - Tools: nnabla/pytorch/tensorflow, emacs, MS office, Docker, Git, Flask
 
 
