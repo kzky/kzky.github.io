@@ -76,6 +76,12 @@
 - [DBLP](https://dblp.uni-trier.de/pers/hd/y/Yoshiyama:Kazuki)
 - [Google Scholar](https://scholar.google.co.jp/citations?user=QRbIIogAAAAJ)
 
+## Skills
+- Languages: Python, CUDA, C++, Java
+- Linux, AWS, Andoid
+- Tools: nnabla/pytorch/tensorflow, emacs, MS office, Docker, Git, Flask
+
+
 ## OSS
 - [nnabla](https://github.com/sony/nnabla)
 - [nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda)
